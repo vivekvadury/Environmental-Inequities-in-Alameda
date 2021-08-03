@@ -8,5 +8,5 @@ The class culminated in a final project that synthesizes the information covered
 
 Specifically, we ask: what is the relationship between high environmental risks associated with flooding and vulnerable populations? We address this question by providing a vulnerability analysis of environmental and social factors related to flooding in order to determine which current populations and spaces in Alameda County appear to be the most vulnerable to the effects of flooding.
 
-Research Plan:
+After creating a network model from topologically sound streets, we devised the following research plan:
 ![Screen Shot 2021-08-02 at 10 48 42 PM](https://user-images.githubusercontent.com/88347724/127949730-d3c25f97-7df3-4a37-93bd-03c5396dac56.png)
