@@ -2,7 +2,7 @@
 
 This project was for my seminar class in Spring 2021, Analytic and Research Methods for Planners: Introduction to GIS and City Planning (City Planning 204C).
 
-This class is a graduate seminar in City Planning, focusing on the development of spatial models, raster- and vector-based analysis, constrained vector line networks, to 3D analysis. This class uses ArcGIS Desktop and ArcScene.
+This class is a graduate seminar in City Planning, whiched focused on spatial models, raster- and vector-based analysis, constrained vector line networks, and 3D analysis. This class uses ArcGIS Desktop and ArcScene.
 
 The class culminated in a final project that synthesizes the information covered throughout the semester. Along with two other classmates, Reshmi Prasad and Sara Ann Knutson, we explore the impact on environmental and social inequities on climate change emergenies in Alameda County. 
 
